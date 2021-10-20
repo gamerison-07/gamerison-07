@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Ison!
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning JavaScript
